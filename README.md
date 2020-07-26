@@ -10,15 +10,15 @@
 
 ### Currently learning 🔖
 
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</code>
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node logo" width="24" height="24">](https://nodejs.org/en/)</code>
-<code>[<img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" alt="express logo" width="24" height="24">](https://expressjs.com/)</code>
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue logo" width="24" height="24">](http://vuejs.org/)</code>
-<code>[<img src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" alt="jamstack logo" width="72" height="24">](https://jamstack.org/)</code>
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node logo" width="24" height="24">](https://nodejs.org/en/)
+[<img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" alt="express logo" width="24" height="24">](https://expressjs.com/)</code>
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue logo" width="24" height="24">](http://vuejs.org/)
+[<img src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" alt="jamstack logo" width="72" height="24">](https://jamstack.org/)
 
 ### Tools i use 🛠️
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc logo" width="24" height="24">](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc logo" width="22" height="22">](https://code.visualstudio.com/)
 
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
