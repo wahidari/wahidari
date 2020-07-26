@@ -30,12 +30,10 @@ You can find and get touch with me on these accounts!
 <a href="https://www.linkedin.com/in/wahidari">
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://">
+<a href="https://instagram.com/wahid.ari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" />
 </a>
-<br>
-
-<a href="https://">
+<a href="https://gitlab.com/wahidari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
 </a>
 <a href="https://medium.com/@wahidari">
