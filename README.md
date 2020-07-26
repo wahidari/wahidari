@@ -23,9 +23,9 @@
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </a>
 <a href="https://jamstack.org/">
-  <img align="left" alt="logo" height="20px" src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" />
+  <img align="left" alt="logo" height="18px" src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" />
 </a>
-
+<br>
 
 ### Tools i use 🛠️
 
