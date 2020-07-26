@@ -26,21 +26,25 @@ You can find and get touch with me on these accounts!
 <a href="https://twitter.com/wahiidari">
   <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://dev.to/wahidari">
-  <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="https://www.linkedin.com/in/wahidari">
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://medium.com/@wahidari">
-  <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
 <a href="https://">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" />
 </a>
+
+
+### Dev hub 🌎
+
 <a href="https://">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
 </a>
-
+<a href="https://medium.com/@wahidari">
+  <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+<a href="https://dev.to/wahidari">
+  <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidari)](https://github.com/wahidari) 
