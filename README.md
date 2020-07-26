@@ -18,7 +18,7 @@
 
 ### Tools i use 🛠️
 
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc logo" width="24" height="24">](https://code.visualstudio.com/)</code>
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc logo" width="24" height="24">](https://code.visualstudio.com/)
 
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
@@ -41,6 +41,6 @@ You can find and get touch with me on these accounts!
 </a>
 <a href="https://dev.to/wahidari">
   <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-<br>
+<br><br>
   
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
