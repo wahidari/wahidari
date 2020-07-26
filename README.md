@@ -10,11 +10,22 @@
 
 ### Currently learning 🔖
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node logo" width="24" height="24">](https://nodejs.org/en/)
-[<img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" alt="express logo" width="24" height="24">](https://expressjs.com/)</code>
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue logo" width="24" height="24">](http://vuejs.org/)
-[<img src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" alt="jamstack logo" width="72" height="24">](https://jamstack.org/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+<a href="https://nodejs.org/en/">
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</a>
+<a href="https://expressjs.com">
+  <img align="left" alt="logo" height="24px" src="https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" />
+</a>
+<a href="http://vuejs.org">
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+</a>
+<a href="https://jamstack.org/">
+  <img align="left" alt="logo" height="20px" src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" />
+</a>
+
 
 ### Tools i use 🛠️
 
@@ -23,6 +34,9 @@
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
 
+<a href="https://github.com/wahidari">
+  <img align="left" alt="Wahid Ari GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</a>
 <a href="https://twitter.com/wahiidari">
   <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
