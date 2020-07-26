@@ -35,8 +35,6 @@ You can find and get touch with me on these accounts!
 </a>
 <br>
 
-Dev hub 🌎
-
 <a href="https://">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
 </a>
