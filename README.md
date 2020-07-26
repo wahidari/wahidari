@@ -35,7 +35,7 @@ You can find and get touch with me on these accounts!
 </a>
 <br>
 
-### Dev hub 🌎
+Dev hub 🌎
 
 <a href="https://">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
@@ -48,4 +48,3 @@ You can find and get touch with me on these accounts!
 <br>
   
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidari)](https://github.com/wahidari) 
