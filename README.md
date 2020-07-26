@@ -32,11 +32,19 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
+<a href="">
+  <img align="left" alt="tools" width="21px" src="" />
+</a>
 
 ### Tools i use 🛠️
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc logo" width="22" height="22">](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="logo" width="22" height="22">](https://github.com/topics/terminal)
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
+<a href="https://github.com/topics/terminal">
+  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+</a>
+<br>
 
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
