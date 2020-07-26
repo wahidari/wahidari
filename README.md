@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm a software engineer (on progress 😄) who is passionate about making open-source more accessible 🎯, learning and sharing my knowledge with others as publicly as possible 🔔. Some technologies I currently passionate to learning include ExpressJS and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+<p align="center">
+  <samp>
+    I'm a software engineer (on process 😄) who is passionate about making open-source more accessible 🎯, learning and sharing my knowledge with others as publicly as possible 🔔. Some technologies I currently passionate to learning include ExpressJS and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+  </samp>
+</p>
 
 ### My resume 📝
 
@@ -19,13 +23,15 @@ I'm a software engineer (on progress 😄) who is passionate about making open-s
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
 
-<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="ig logo" width="20" height="20">](https://www.instagram.com/)</code>
-<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="20" height="20">](https://dev.to/)</code>
-<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="24" height="24">](https://twitter.com/)</code>
-<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="20" height="20">](https://gitlab.com/)</code>
+<a href="https://twitter.com/cs_vedant">
+  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+
+[https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg]()
+<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="ig logo" width="20" height="20">](https://www.instagram.com/wahid.ari)</code>
+<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="20" height="20">](https://dev.to/wahidari)</code>
+<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="24" height="24">](https://twitter.com/wahiidari)</code>
+<code>[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="20" height="20">](https://gitlab.com/wahidari)</code>
 
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
-
-<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidari)](https://github.com/wahidari) 
--->
