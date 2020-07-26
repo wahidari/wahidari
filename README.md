@@ -33,16 +33,16 @@
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 </a>
 <a href="">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+  <img align="left" alt="tools" height="24px width="24px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 </a>
 <a href="">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="tools" height="24px width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <a href="">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+  <img align="left" alt="tools" height="21px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
 </a>
 <a href="">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="tools" height="21px" src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" />
 </a>
 <br>
 
