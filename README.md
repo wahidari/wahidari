@@ -27,7 +27,7 @@
 </a>
 <br>
 
-### Some technology I have worked with 🔖
+### Some technology I have worked with 💻
 
 <a href="">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
