@@ -59,9 +59,6 @@
 ### Find me around the web 🌎
 You can find and get touch with me on these accounts!
 
-<a href="https://github.com/wahidari">
-  <img align="left" alt="Wahid Ari GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
 <a href="https://twitter.com/wahiidari">
   <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
@@ -71,6 +68,9 @@ You can find and get touch with me on these accounts!
 </a>
 <a href="https://instagram.com/wahid.ari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" />
+</a>
+<a href="https://github.com/wahidari">
+  <img align="left" alt="Wahid Ari GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
 <a href="https://gitlab.com/wahidari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
