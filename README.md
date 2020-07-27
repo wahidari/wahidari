@@ -11,19 +11,19 @@
 ### Currently learning 🔖
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="left" alt="logo" width="21px" src="icons/es6.png" />
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
 </a>
 <a href="https://nodejs.org/en/">
-  <img align="left" alt="logo" width="21px" src="icons/nodejs.png" />
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nodejs.png" />
 </a>
 <a href="https://expressjs.com">
-  <img align="left" alt="logo" width="21px" src="icons/express.png" />
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
 <a href="http://vuejs.org">
-  <img align="left" alt="logo" width="21px" src="icons/vue.png" />
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vue.png" />
 </a>
 <a href="https://jamstack.org/">
-  <img align="left" alt="logo" height="18px" src="icons/jamstack.png" />
+  <img align="left" alt="logo" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/jamstack.png" />
 </a>
 <br>
 
