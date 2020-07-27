@@ -29,20 +29,20 @@
 
 ### Some technology I have worked with 💻
 
-<a href="">
-  <img align="left" alt="tools" width="21px" src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" />
+<a href="https://getbootstrap.com/">
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" />
 </a>
-<a href="">
-  <img align="left" alt="tools" height="24px width="24px" src="https://img.shields.io/badge/PHP-grey?logo=php" />
+<a href="https://www.php.net/">
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/PHP-grey?logo=php" />
 </a>
-<a href="">
-  <img align="left" alt="tools" height="24px width="24px" src="https://img.shields.io/badge/Python-grey?logo=python" />
+<a href="https://www.python.org/">
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/Python-grey?logo=python" />
 </a>
-<a href="">
+<a href="https://flask.palletsprojects.com/">
   <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/Flask-grey?logo=flask" />
 </a>
-<a href="">
-  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/MySQL-grey?logo=mysql" />
+<a href="https://mariadb.org/">
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/MariaDB-grey?logo=mariadb" />
 </a>
 <br>
 
