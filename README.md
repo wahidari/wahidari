@@ -2,13 +2,13 @@
 
 <p align="center">
   <samp>
-    I'm a software engineer (on process 😄) who is passionate about making open-source more accessible 🎯, learning and sharing my knowledge with others as publicly as possible 🔔. Some technologies I currently passionate to learning include NodeJS (Express) and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+    I'm a software engineer (on process 😄) who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
   </samp>
 </p>
 
-### my resume 📝
+### 📝 my resume ⤵️
 
-### currently learning 🔖
+### 🔖 currently learning ⤵️
 
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
@@ -27,7 +27,7 @@
 </a>
 <br>
 
-### some technology i have worked with 💻
+### 💻 some technology i have worked with ⤵️
 
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
@@ -46,7 +46,7 @@
 </a>
 <br>
 
-### tools that i use 🛠️
+### 🛠️ tools that i use ⤵️
 
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
@@ -71,7 +71,7 @@
 </a>
 <br>
 
-### find me around the web 🌎
+### 🌎 find me around the web ⤵️
 You can find and get touch with me on these accounts!
 
 <a title="Facebook" href="https://facebook.com/wahiidari">
