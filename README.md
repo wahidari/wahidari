@@ -54,6 +54,21 @@
 <a href="https://github.com/topics/terminal">
   <img align="left" alt="tools" width="21px" src="icons/terminal.png" />
 </a>
+<a href="https://developer.android.com/studio">
+  <img align="left" alt="tools" width="24px" src="icons/android.png" />
+</a>
+<a href="https://desktop.github.com/">
+  <img align="left" alt="tools" width="24px" src="icons/githubdesktop.png" />
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+  <img align="left" alt="tools" width="21px" src="icons/pycharm.png" />
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img align="left" alt="tools" width="21px" src="icons/intellij.png" />
+</a>
+<a href="https://www.postman.com/">
+  <img align="left" alt="tools" width="21px" src="icons/postman.png" />
+</a>
 <br>
 
 ### Find me around the web 🌎
@@ -67,7 +82,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://instagram.com/wahid.ari">
-  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" />
+  <img align="left" alt="Wahid Ari " width="21px" src="icons/instagram.jpg" />
 </a>
 <a href="https://github.com/wahidari">
   <img align="left" alt="Wahid Ari GitHub" width="21px" src="icons/github.png" />
