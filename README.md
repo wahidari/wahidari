@@ -11,19 +11,19 @@
 ### Currently learning 🔖
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
+  <img align="left" alt="logo" width="21px" src="icons/es6.png" />
 </a>
 <a href="https://nodejs.org/en/">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" alt="logo" width="21px" src="icons/nodejs.png" />
 </a>
 <a href="https://expressjs.com">
-  <img align="left" alt="logo" width="21px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />
+  <img align="left" alt="logo" width="21px" src="icons/express.png" />
 </a>
 <a href="http://vuejs.org">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img align="left" alt="logo" width="21px" src="icons/vue.png" />
 </a>
 <a href="https://jamstack.org/">
-  <img align="left" alt="logo" height="18px" src="https://raw.githubusercontent.com/jamstack/jamstack.org/021eee521094290b65a120b8c43114f2ac49e5d8/src/img/jamstack-full-logo.svg" />
+  <img align="left" alt="logo" height="18px" src="icons/jamstack.png" />
 </a>
 <br>
 
