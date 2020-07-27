@@ -49,10 +49,10 @@
 ### Tools i use 🛠️
 
 <a href="https://code.visualstudio.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="tools" width="21px" src="icons/vscode.png" />
 </a>
 <a href="https://github.com/topics/terminal">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+  <img align="left" alt="tools" width="21px" src="icons/terminal.png" />
 </a>
 <br>
 
@@ -70,10 +70,10 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" />
 </a>
 <a href="https://github.com/wahidari">
-  <img align="left" alt="Wahid Ari GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="Wahid Ari GitHub" width="21px" src="icons/github.png" />
 </a>
 <a href="https://gitlab.com/wahidari">
-  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" />
+  <img align="left" alt="Wahid Ari " width="21px" src="icons/gitlab.png" />
 </a>
 <a href="https://medium.com/@wahidari">
   <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
