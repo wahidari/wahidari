@@ -96,7 +96,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/medium.png" />
 </a>
 <a title="Dev" href="https://dev.to/wahidari">
-  <img style=":hover { transform: scale(1.5); } transition: transform .2s;" align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
+  <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
 <br><br>
   
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
