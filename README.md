@@ -42,7 +42,7 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/flask.png" />
 </a>
 <a href="https://mariadb.org/">
-  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysql.png" />
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysql.jpg" />
 </a>
 <br>
 
