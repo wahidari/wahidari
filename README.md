@@ -9,7 +9,7 @@
 ### my resume ⤵️
 
 <a title="Resume" href="https://github.com/wahidari">
-  <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume--grey?logo=appveyor" />
+  <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume-grey?logo=appveyor&style=flat-square" />
 </a>
 <br>
 
