@@ -30,19 +30,19 @@
 ### Some technology I have worked with 💻
 
 <a href="">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  <img align="left" alt="tools" width="21px" src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" />
 </a>
 <a href="">
-  <img align="left" alt="tools" height="24px width="24px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+  <img align="left" alt="tools" height="24px width="24px" src="https://img.shields.io/badge/PHP-grey?logo=php" />
 </a>
 <a href="">
-  <img align="left" alt="tools" height="24px width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="tools" height="24px width="24px" src="https://img.shields.io/badge/Python-grey?logo=python" />
 </a>
 <a href="">
-  <img align="left" alt="tools" height="21px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/Flask-grey?logo=flask" />
 </a>
 <a href="">
-  <img align="left" alt="tools" height="21px" src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" />
+  <img align="left" alt="tools" height="21px" src="https://img.shields.io/badge/MySQL-grey?logo=mysql" />
 </a>
 <br>
 
