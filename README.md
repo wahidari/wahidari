@@ -8,6 +8,11 @@
 
 ### my resume ⤵️
 
+<a title="Resume" href="https://github.com/wahidari">
+  <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume--grey?logo=appveyor" />
+</a>
+<br>
+
 ### currently learning ⤵️
 
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
