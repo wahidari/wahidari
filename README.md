@@ -30,6 +30,9 @@
 <a title="JAMstack" href="https://jamstack.org/">
   <img align="left" alt="logo" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/jamstack.png" />
 </a>
+<a title="Kotlin" https://kotlinlang.org/">
+  <img align="left" alt="logo" width="18px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/kotlin.png" />
+</a>
 <br>
 
 ### some technology i have worked with ⤵️
