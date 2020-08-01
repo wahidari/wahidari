@@ -68,9 +68,11 @@
 <a title="Pycharm" href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pycharm.png" />
 </a>
+<!--
 <a title="Intellij Idea" href="https://www.jetbrains.com/idea/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/intellij.png" />
 </a>
+-->
 <a title="Postman" href="https://www.postman.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
 </a>
@@ -97,9 +99,11 @@ You can find and get touch with me on these accounts!
 <a title="Gitlab" href="https://gitlab.com/wahidari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/gitlab.png" />
 </a>
+<!--
 <a title="Medium" href="https://medium.com/@wahidari">
   <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/medium.png" />
 </a>
+-->
 <a title="Dev" href="https://dev.to/wahidari">
   <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
 <br><br>
