@@ -93,13 +93,13 @@ You can find and get touch with me on these accounts!
 <a title="Instagram" href="https://instagram.com/wahid.ari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.jpg" />
 </a>
+<!--
 <a title="Github" href="https://github.com/wahidari">
   <img align="left" alt="Wahid Ari GitHub" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/github.png" />
 </a>
 <a title="Gitlab" href="https://gitlab.com/wahidari">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/gitlab.png" />
 </a>
-<!--
 <a title="Medium" href="https://medium.com/@wahidari">
   <img align="left" alt="Wahid Ari Medium" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/medium.png" />
 </a>
