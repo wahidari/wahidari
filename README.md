@@ -6,14 +6,14 @@
   </samp>
 </p>
 
-### my resume ⤵️
+### My resume 
 
 <a title="Resume" href="https://github.com/wahidari">
   <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume-grey?logo=appveyor&style=flat-square" />
 </a>
 <br>
 
-### currently learning ⤵️
+### Currently learning 
 
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
@@ -35,7 +35,7 @@
 </a>
 <br>
 
-### some technology i have worked with ⤵️
+### Some technology I have worked with 
 
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
@@ -54,7 +54,7 @@
 </a>
 <br>
 
-### tools that i use ⤵️
+### Tools I use 
 
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
@@ -81,7 +81,7 @@
 </a>
 <br>
 
-### find me around the web ⤵️
+### Find me around the web 
 You can find and get touch with me on these accounts!
 
 <a title="Facebook" href="https://facebook.com/wahiidari">
