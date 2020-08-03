@@ -80,6 +80,13 @@
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
 </a>
 <br>
+  
+### Contribution
+
+<a title="Hacktoberfest" href="https://dev.to/wahidari">
+  <img align="left" alt="logo" width="30px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
+</a>
+<br>
 
 ### Find me around the web 
 You can find and get touch with me on these accounts!
@@ -109,13 +116,7 @@ You can find and get touch with me on these accounts!
 -->
 <a title="Dev" href="https://dev.to/wahidari">
   <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
-<br>
-  
-### Contribution
-
-<a title="Hacktoberfest" href="https://dev.to/wahidari">
-  <img align="left" alt="logo" width="30px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
 </a>
-<br><br>
+<br>
 
 ![wahidari github stats](https://github-readme-stats.vercel.app/api?username=wahidari&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true)
