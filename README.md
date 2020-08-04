@@ -8,7 +8,7 @@
 
 ### My resume 
 
-<a title="Resume" href="https://github.com/wahidari">
+<a title="Resume" href="https://github.com/wahidari/wahidari/tree/master/cv">
   <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume-grey?logo=appveyor&style=flat-square" />
 </a>
 <br>
