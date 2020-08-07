@@ -3,5 +3,4 @@
 </a>
 <br>
 
-| <img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/cv.png" /> |
-| ------ |
+<img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/cv.png" />
