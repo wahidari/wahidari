@@ -4,9 +4,6 @@
 <br>
 
 <img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/cv.png" />
-
 <img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/portfolio-a.png" />
-
 <img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/portfolio-b.png" />
-
 <img align="center" width="90%" alt="cv" src="https://raw.githubusercontent.com/wahidari/wahidari/master/cv/portfolio-c.png" />
