@@ -57,6 +57,12 @@
 <a title="MySQL" href="https://mariadb.org/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
+<a title="Java" href="https://java.com/">
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/java.jpg" />
+</a>
+<a title="SQLite" href="https://www.sqlite.org/">
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/sqlite.png" />
+</a>
 <br>
 
 ### Tools I use 
