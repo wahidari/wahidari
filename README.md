@@ -24,6 +24,9 @@
 <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
+<a title="UI / UX Design" href="https://design.google/">
+  <img align="left" alt="logo" width="60px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uiux.jpg" />
+</a>
 <!--
 <a title="VueJS" href="http://vuejs.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vue.png" />
@@ -52,7 +55,7 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/flask.png" />
 </a>
 <a title="MySQL" href="https://mariadb.org/">
-  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysql.jpg" />
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 <br>
 
@@ -72,6 +75,9 @@
 </a>
 <a title="Pycharm" href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pycharm.png" />
+</a>
+<a title="Figma" href="https://www.figma.com/">
+  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png" />
 </a>
 <!--
 <a title="Intellij Idea" href="https://www.jetbrains.com/idea/">
