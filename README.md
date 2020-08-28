@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm a software engineer (on process 😄) who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+    I'm a software developer (on process 😄) who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
   </samp>
 </p>
 
@@ -24,6 +24,7 @@
 <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
+<!--
 <a title="VueJS" href="http://vuejs.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vue.png" />
 </a>
@@ -33,6 +34,7 @@
 <a title="Kotlin" https://kotlinlang.org/">
   <img align="left" alt="logo" width="18px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/kotlin.png" />
 </a>
+-->
 <br>
 
 ### Some technology I have worked with 
