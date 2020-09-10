@@ -27,13 +27,13 @@
   <img align="left" alt="logo" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
 <a title="Bootstrap" href="https://getbootstrap.com/">
-  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
+  <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
 </a>
 <a title="MySQL" href="https://mariadb.org/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 <a title="UI Design" href="https://design.google/">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
+  <img align="left" alt="logo" width="21px" height="19px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
 </a>
 <!--
 <a title="VueJS" href="http://vuejs.org">
