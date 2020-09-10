@@ -32,8 +32,8 @@
 <a title="MySQL" href="https://mariadb.org/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
-<a title="UI / UX Design" href="https://design.google/">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/ui.png" />
+<a title="UI Design" href="https://design.google/">
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
 </a>
 <!--
 <a title="VueJS" href="http://vuejs.org">
