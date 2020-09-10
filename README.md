@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm a IT Enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
   </samp>
 </p>
 
@@ -24,7 +24,7 @@
 </a>
 -->
 <a title="ExpressJS" href="https://expressjs.com">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
+  <img align="left" alt="logo" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
