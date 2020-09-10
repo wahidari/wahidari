@@ -111,7 +111,7 @@
 ### Contribution
 
 <a title="Hacktoberfest" href="https://dev.to/wahidari">
-  <img align="left" alt="logo" width="30px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
+  <img align="left" alt="logo" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
 </a>
 <br>
 
