@@ -33,7 +33,7 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 <a title="UI / UX Design" href="https://design.google/">
-  <img align="left" alt="logo" width="60px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uiux.jpg" />
+  <img align="left" alt="logo" width="50px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/ui.png" />
 </a>
 <!--
 <a title="VueJS" href="http://vuejs.org">
