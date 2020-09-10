@@ -79,18 +79,22 @@
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
 </a>
+<!--
 <a title="Terminal" href="https://github.com/topics/terminal">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/terminal.png" />
 </a>
 <a title="Android Studio" href="https://developer.android.com/studio">
   <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/android.png" />
 </a>
+-->
 <a title="Github Desktop" href="https://desktop.github.com/">
   <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/githubdesktop.png" />
 </a>
+<!--
 <a title="Pycharm" href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pycharm.png" />
 </a>
+-->
 <a title="Figma" href="https://www.figma.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png" />
 </a>
