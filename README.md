@@ -15,16 +15,22 @@
 
 ### Currently learning 
 
+<!--
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
 </a>
-<!--
 <a title="NodeJS" href="https://nodejs.org/en/">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nodejs.png" />
 </a>
 -->
 <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
+</a>
+<a title="Bootstrap" href="https://getbootstrap.com/">
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
+</a>
+<a title="MySQL" href="https://mariadb.org/">
+  <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 <a title="UI / UX Design" href="https://design.google/">
   <img align="left" alt="logo" width="60px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uiux.jpg" />
@@ -42,8 +48,8 @@
 -->
 <br>
 
+<!--
 ### Some technology I have worked with 
-
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
 </a>
@@ -66,6 +72,7 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/sqlite.png" />
 </a>
 <br>
+-->
 
 ### Tools I use 
 
