@@ -18,9 +18,11 @@
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
 </a>
+<!--
 <a title="NodeJS" href="https://nodejs.org/en/">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nodejs.png" />
 </a>
+-->
 <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
