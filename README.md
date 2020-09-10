@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm a software developer (on process 😄) who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) and VueJS 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+    I'm a IT Enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
   </samp>
 </p>
 
