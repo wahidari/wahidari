@@ -2,16 +2,17 @@
 
 <p align="center">
   <samp>
-    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about JAMstack, Progressive Web Apps and Headless CMS 🚀.
+    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about UI/UX Design 🚀.
   </samp>
 </p>
-
+<!--
 ### My resume 
 
 <a title="Resume" href="https://github.com/wahidari/wahidari/tree/master/cv">
   <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume-grey?logo=appveyor&style=flat-square" />
 </a>
 <br>
+-->
 
 ### Currently learning 
 
