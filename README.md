@@ -111,8 +111,11 @@
   
 ### Contribution
 
-<a title="Hacktoberfest" href="https://dev.to/wahidari">
+<a title="Hacktoberfest 2019" href="https://dev.to/wahidari">
   <img align="left" alt="logo" width="26px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
+</a>
+<a title="Hacktoberfest 2020" href="https://dev.to/wahidari">
+  <img align="left" alt="logo" width="26px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest2020.png" />
 </a>
 <br>
 
