@@ -149,7 +149,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
 </a>
 <a title="Dribble" href="https://dribbble.com/wahidari">
-  <img align="left" alt="Wahid Ari Dribble" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dribble.png" />
+  <img align="left" alt="Wahid Ari Dribble" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/drible.png" />
 </a>
 <br><br>
 
