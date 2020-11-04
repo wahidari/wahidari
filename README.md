@@ -31,7 +31,10 @@
 </a>
 -->
 <a title="ExpressJS" href="https://expressjs.com">
-  <img align="left" alt="logo" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
+</a>
+<a title="Wordpress" href="https://wordpress.org">
+  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png" />
 </a>
 <a title="UI Design" href="https://design.google/">
   <img align="left" alt="logo" width="21px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
