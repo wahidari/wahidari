@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about UI/UX Design 🚀.
+    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯.
   </samp>
 </p>
 <!--
