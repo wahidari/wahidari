@@ -30,6 +30,12 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 -->
+<a title="Airtable" href="https://www.airtable.com/">
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/airtable.png" />
+</a>
+<a title="Pory" href="https://pory.io/">
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pory.png" />
+</a>
 <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a>
