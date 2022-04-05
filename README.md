@@ -27,14 +27,17 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
 -->
-<a title="Airtable" href="https://www.airtable.com/">
+<!-- <a title="Airtable" href="https://www.airtable.com/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/airtable.png" />
 </a>
 <a title="Pory" href="https://pory.io/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pory.png" />
-</a>
+</a> -->
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
+</a>
+<a title="Tailwind" href="https://tailwindcss.com/">
+  <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/tailwind.png" />
 </a>
 <!-- <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
@@ -42,9 +45,9 @@
 <a title="NextJS" href="https://nextjs.org/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nextjs.png" />
 </a>
-<a title="Wordpress" href="https://wordpress.org">
+<!-- <a title="Wordpress" href="https://wordpress.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png" />
-</a>
+</a> -->
 <!-- <a title="UI Design" href="https://design.google/">
   <img align="left" alt="logo" width="21px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
 </a> -->
@@ -116,9 +119,12 @@
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/intellij.png" />
 </a>
 -->
-<a title="Postman" href="https://www.postman.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
+<a title="Insomnia" href="https://insomnia.rest/">
+  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/insomnia.png" />
 </a>
+<!-- <a title="Postman" href="https://www.postman.com/">
+  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
+</a> -->
 <br>
   
 ### Contribution
