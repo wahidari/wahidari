@@ -37,13 +37,16 @@
   <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
 </a>
 <a title="Tailwind" href="https://tailwindcss.com/">
-  <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/tailwind.png" />
+  <img align="left" alt="tools" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/tailwind.png" />
 </a>
 <!-- <a title="ExpressJS" href="https://expressjs.com">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
 </a> -->
 <a title="NextJS" href="https://nextjs.org/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nextjs.png" />
+</a>
+<a title="Vercel" href="https://vercel.com/">
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vercel.png" />
 </a>
 <!-- <a title="Wordpress" href="https://wordpress.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png" />
