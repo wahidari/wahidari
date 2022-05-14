@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯.
+    I'm a tech enthusiast who is passionate about learning and sharing my knowledge with others as publicly as possible 🎯.
   </samp>
 </p>
 <!--
