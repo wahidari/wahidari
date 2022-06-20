@@ -153,7 +153,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
 </a>
 <a title="Instagram" href="https://instagram.com/wahid.ari">
-  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.jpg" />
+  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
 </a>
 <!--
 <a title="Github" href="https://github.com/wahidari">
