@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
+<p align="left">
   <samp>
     I'm a tech enthusiast who is passionate about learning and sharing my knowledge with others as publicly as possible 🎯.
   </samp>
@@ -153,7 +153,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
 </a>
 <a title="Instagram" href="https://instagram.com/wahid.ari">
-  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
+  <img align="left" alt="Wahid Ari " width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
 </a>
 <!--
 <a title="Github" href="https://github.com/wahidari">
@@ -167,10 +167,10 @@ You can find and get touch with me on these accounts!
 </a>
 -->
 <a title="Dev" href="https://dev.to/wahidari">
-  <img align="left" alt="Wahid Ari DEV" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
+  <img align="left" alt="Wahid Ari DEV" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/dev.png" />
 </a>
 <a title="Dribble" href="https://dribbble.com/wahidari">
-  <img align="left" alt="Wahid Ari Dribble" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/drible.png" />
+  <img align="left" alt="Wahid Ari Dribble" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/drible.png" />
 </a>
 <br><br>
 
