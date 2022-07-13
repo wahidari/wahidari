@@ -48,6 +48,12 @@
 <a title="Vercel" href="https://vercel.com/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vercel.png" />
 </a>
+<a title="Netlify" href="https://netlify.com/">
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/netlify.png" />
+</a>
+<a title="Supabase" href="https://supabase.com/">
+  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/supabase.png" />
+</a>
 <!-- <a title="Wordpress" href="https://wordpress.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png" />
 </a> -->
@@ -98,10 +104,10 @@
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
 </a>
-<!--
 <a title="Terminal" href="https://github.com/topics/terminal">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/terminal.png" />
+  <img align="left" alt="tools" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/terminal.png" />
 </a>
+<!--
 <a title="Android Studio" href="https://developer.android.com/studio">
   <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/android.png" />
 </a>
