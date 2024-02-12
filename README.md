@@ -131,9 +131,9 @@
 <a title="Insomnia" href="https://insomnia.rest/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/insomnia.png" />
 </a>
-<!-- <a title="Postman" href="https://www.postman.com/">
+<a title="Postman" href="https://www.postman.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
-</a> -->
+</a>
 <br>
   
 ### Contribution
