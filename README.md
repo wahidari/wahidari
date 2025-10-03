@@ -127,15 +127,16 @@
 <a title="Intellij Idea" href="https://www.jetbrains.com/idea/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/intellij.png" />
 </a>
--->
 <a title="Insomnia" href="https://insomnia.rest/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/insomnia.png" />
 </a>
+-->
 <a title="Postman" href="https://www.postman.com/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
 </a>
 <br>
-  
+
+<!--
 ### Contribution
 
 <a title="Hacktoberfest 2019" href="https://dev.to/wahidari">
@@ -145,6 +146,7 @@
   <img align="left" alt="logo" width="26px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest2020.png" />
 </a>
 <br>
+-->
 
 ### Find me around the web 
 You can find and get touch with me on these accounts!
